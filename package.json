@@ -1,0 +1,23 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "nodebot trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katie-roberts/movie-nodebot.git"
+  },
+  "author": "katie stockton-roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katie-roberts/movie-nodebot/issues"
+  },
+  "homepage": "https://github.com/katie-roberts/movie-nodebot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
